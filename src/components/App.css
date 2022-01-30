@@ -1,0 +1,34 @@
+.main {
+  margin-top: 5em;
+}
+
+.center {
+  justify-content: center;
+  padding: 10px;
+}
+
+.ui.search input {
+  width: 100%;
+  border-radius: 0 !important;
+}
+
+.item {
+  padding: 15px 0px !important;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+.addbutton{
+ display: flex;
+ align-items: center;
+ cursor: pointer;
+ margin-top: 70px;
+ margin-bottom: 0px;
+}
+.addbutton h2{
+  padding: 0px;
+  margin: 0px;
+}
